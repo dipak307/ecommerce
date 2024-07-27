@@ -1,0 +1,18 @@
+.navbar{
+  display: flex;
+  
+}
+.dip{
+  color:white;
+  background-color:blue;
+ justify-content: center;
+ border-radius: 1rem;
+ cursor: pointer;
+ }
+
+ .dip:hover{
+   background-color: green;
+ }
+ .dipak{
+  text-align: center;
+ }
